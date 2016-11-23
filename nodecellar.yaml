@@ -11,7 +11,7 @@ imports:
 
 #  - http://cloud.local:53229/cloud/nodecellar-infra.yaml
 
-   - infra/openstack/nodecellar-infra.yaml
+  - infra/openstack/nodecellar-infra.yaml
 #  - infra/aws-ec2/nodecellar-infra.yaml
 
   - types/nodecellar.yaml
