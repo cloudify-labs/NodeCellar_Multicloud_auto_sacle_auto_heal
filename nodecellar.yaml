@@ -30,8 +30,8 @@ inputs:
 
 
   agent_user:
-    description: >
     default: 'ubuntu'
+    description: >
       User for connecting to agent VM's
 
   application_url:
