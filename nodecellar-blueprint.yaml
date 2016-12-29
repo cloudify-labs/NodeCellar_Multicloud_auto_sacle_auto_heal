@@ -42,10 +42,12 @@ inputs:
   #######################
 
   aws_image:
+    default: 'none'
     description: >
       Image to be used when launching agent VM's
 
   aws_size:
+    default: 'none'
     description: >
       Flavor of the agent VM's
 
